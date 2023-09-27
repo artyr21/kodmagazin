@@ -1,0 +1,11 @@
+fig, ax = plt.subplots()
+
+ax.set_title('График')
+ax.set_xlabel('x')
+ax.set_ylabel('y')
+
+x = пр.linspace(?)
+
+y= x
+ax.plot(x, y)
+plt.show()
